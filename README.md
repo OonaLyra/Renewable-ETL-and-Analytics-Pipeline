@@ -155,4 +155,4 @@ The project generates analytical visualizations including:
 
 Lúcia Katze Lyra
 
-Data Engineering and Analytics enthusiast focused on building reliable data pipelines and analytical solutions.
+Data Engineering and Analytics enthusiast/Dev

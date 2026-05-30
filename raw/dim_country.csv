@@ -1,0 +1,252 @@
+country_id,entity,iso_code,entity_type
+1,Afghanistan,AFG,country
+2,Africa,REGION,region
+3,Africa (Ember),REGION,region
+4,Albania,ALB,country
+5,Algeria,DZA,country
+6,American Samoa,ASM,country
+7,Angola,AGO,country
+8,Antigua and Barbuda,ATG,country
+9,Argentina,ARG,country
+10,Armenia,ARM,country
+11,Aruba,ABW,country
+12,Asia,REGION,region
+13,Asia (Ember),REGION,region
+14,Asia Pacific,REGION,region
+15,Australia,AUS,country
+16,Austria,AUT,country
+17,Azerbaijan,AZE,country
+18,Bahamas,BHS,country
+19,Bahrain,BHR,country
+20,Bangladesh,BGD,country
+21,Barbados,BRB,country
+22,Belarus,BLR,country
+23,Belgium,BEL,country
+24,Belize,BLZ,country
+25,Benin,BEN,country
+26,Bermuda,BMU,country
+27,Bhutan,BTN,country
+28,Bolivia,BOL,country
+29,Bosnia and Herzegovina,BIH,country
+30,Botswana,BWA,country
+31,Brazil,BRA,country
+32,British Virgin Islands,VGB,country
+33,Brunei,BRN,country
+34,Bulgaria,BGR,country
+35,Burkina Faso,BFA,country
+36,Burundi,BDI,country
+37,Cambodia,KHM,country
+38,Cameroon,CMR,country
+39,Canada,CAN,country
+40,Cape Verde,CPV,country
+41,Cayman Islands,CYM,country
+42,Central African Republic,CAF,country
+43,Central America,REGION,region
+44,Chad,TCD,country
+45,Chile,CHL,country
+46,China,CHN,country
+47,CIS,REGION,region
+48,Colombia,COL,country
+49,Comoros,COM,country
+50,Congo,COG,country
+51,Cook Islands,COK,country
+52,Costa Rica,CRI,country
+53,Cote d'Ivoire,CIV,country
+54,Croatia,HRV,country
+55,Cuba,CUB,country
+56,Cyprus,CYP,country
+57,Czechia,CZE,country
+58,Democratic Republic of Congo,COD,country
+59,Denmark,DNK,country
+60,Djibouti,DJI,country
+61,Dominica,DMA,country
+62,Dominican Republic,DOM,country
+63,Eastern Africa,REGION,region
+64,Ecuador,ECU,country
+65,Egypt,EGY,country
+66,El Salvador,SLV,country
+67,Equatorial Guinea,GNQ,country
+68,Eritrea,ERI,country
+69,Estonia,EST,country
+70,Eswatini,SWZ,country
+71,Ethiopia,ETH,country
+72,Europe,REGION,region
+73,Europe (Ember),REGION,region
+74,European Union (27),REGION,region
+75,European Union (27) (Ember),REGION,region
+76,Faeroe Islands,FRO,country
+77,Falkland Islands,FLK,country
+78,Fiji,FJI,country
+79,Finland,FIN,country
+80,France,FRA,country
+81,French Guiana,GUF,country
+82,French Polynesia,PYF,country
+83,G20 (Ember),REGION,region
+84,G7 (Ember),REGION,region
+85,Gabon,GAB,country
+86,Gambia,GMB,country
+87,Georgia,GEO,country
+88,Germany,DEU,country
+89,Ghana,GHA,country
+90,Gibraltar,GIB,country
+91,Greece,GRC,country
+92,Greenland,GRL,country
+93,Grenada,GRD,country
+94,Guadeloupe,GLP,country
+95,Guam,GUM,country
+96,Guatemala,GTM,country
+97,Guinea,GIN,country
+98,Guinea-Bissau,GNB,country
+99,Guyana,GUY,country
+100,Haiti,HTI,country
+101,High-income countries,REGION,region
+102,Honduras,HND,country
+103,Hong Kong,HKG,country
+104,Hungary,HUN,country
+105,Iceland,ISL,country
+106,India,IND,country
+107,Indonesia,IDN,country
+108,Iran,IRN,country
+109,Iraq,IRQ,country
+110,Ireland,IRL,country
+111,Israel,ISR,country
+112,Italy,ITA,country
+113,Jamaica,JAM,country
+114,Japan,JPN,country
+115,Jordan,JOR,country
+116,Kazakhstan,KAZ,country
+117,Kenya,KEN,country
+118,Kiribati,KIR,country
+119,Kosovo,OWID_KOS,country
+120,Kuwait,KWT,country
+121,Kyrgyzstan,KGZ,country
+122,Laos,LAO,country
+123,Latin America and Caribbean (Ember),REGION,region
+124,Latvia,LVA,country
+125,Lebanon,LBN,country
+126,Lesotho,LSO,country
+127,Liberia,LBR,country
+128,Libya,LBY,country
+129,Lithuania,LTU,country
+130,Lower-middle-income countries,REGION,region
+131,Low-income countries,REGION,region
+132,Luxembourg,LUX,country
+133,Macao,MAC,country
+134,Madagascar,MDG,country
+135,Malawi,MWI,country
+136,Malaysia,MYS,country
+137,Maldives,MDV,country
+138,Mali,MLI,country
+139,Malta,MLT,country
+140,Martinique,MTQ,country
+141,Mauritania,MRT,country
+142,Mauritius,MUS,country
+143,Mexico,MEX,country
+144,Middle Africa,REGION,region
+145,Middle East,REGION,region
+146,Moldova,MDA,country
+147,Mongolia,MNG,country
+148,Montenegro,MNE,country
+149,Montserrat,MSR,country
+150,Morocco,MAR,country
+151,Mozambique,MOZ,country
+152,Myanmar,MMR,country
+153,Namibia,NAM,country
+154,Nauru,NRU,country
+155,Nepal,NPL,country
+156,Netherlands,NLD,country
+157,New Caledonia,NCL,country
+158,New Zealand,NZL,country
+159,Nicaragua,NIC,country
+160,Niger,NER,country
+161,Nigeria,NGA,country
+162,Niue,NIU,country
+163,Non-OECD,REGION,region
+164,North America,REGION,region
+165,North America (Ember),REGION,region
+166,North Korea,PRK,country
+167,North Macedonia,MKD,country
+168,Norway,NOR,country
+169,Oceania,REGION,region
+170,Oceania (Ember),REGION,region
+171,OECD,REGION,region
+172,OECD (Ember),REGION,region
+173,Oman,OMN,country
+174,Other Europe,REGION,region
+175,Other South & Central America,REGION,region
+176,Pakistan,PAK,country
+177,Palestine,PSE,country
+178,Panama,PAN,country
+179,Papua New Guinea,PNG,country
+180,Paraguay,PRY,country
+181,Peru,PER,country
+182,Philippines,PHL,country
+183,Poland,POL,country
+184,Portugal,PRT,country
+185,Puerto Rico,PRI,country
+186,Qatar,QAT,country
+187,Reunion,REU,country
+188,Romania,ROU,country
+189,Russia,RUS,country
+190,Rwanda,RWA,country
+191,Saint Helena,SHN,country
+192,Saint Kitts and Nevis,KNA,country
+193,Saint Lucia,LCA,country
+194,Saint Pierre and Miquelon,SPM,country
+195,Saint Vincent and the Grenadines,VCT,country
+196,Samoa,WSM,country
+197,Sao Tome and Principe,STP,country
+198,Saudi Arabia,SAU,country
+199,Senegal,SEN,country
+200,Serbia,SRB,country
+201,Seychelles,SYC,country
+202,Sierra Leone,SLE,country
+203,Singapore,SGP,country
+204,Slovakia,SVK,country
+205,Slovenia,SVN,country
+206,Solomon Islands,SLB,country
+207,Somalia,SOM,country
+208,South & Central America,REGION,region
+209,South Africa,ZAF,country
+210,South America,REGION,region
+211,South and Central America,REGION,region
+212,South Korea,KOR,country
+213,South Sudan,SSD,country
+214,Spain,ESP,country
+215,Sri Lanka,LKA,country
+216,Sudan,SDN,country
+217,Suriname,SUR,country
+218,Sweden,SWE,country
+219,Switzerland,CHE,country
+220,Syria,SYR,country
+221,Taiwan,TWN,country
+222,Tajikistan,TJK,country
+223,Tanzania,TZA,country
+224,Thailand,THA,country
+225,Timor,TLS,country
+226,Togo,TGO,country
+227,Tonga,TON,country
+228,Trinidad and Tobago,TTO,country
+229,Tunisia,TUN,country
+230,Turkey,TUR,country
+231,Turkmenistan,TKM,country
+232,Turks and Caicos Islands,TCA,country
+233,Uganda,UGA,country
+234,Ukraine,UKR,country
+235,United Arab Emirates,ARE,country
+236,United Kingdom,GBR,country
+237,United States,USA,country
+238,United States Virgin Islands,VIR,country
+239,Upper-middle-income countries,REGION,region
+240,Uruguay,URY,country
+241,USSR,OWID_USS,country
+242,Uzbekistan,UZB,country
+243,Vanuatu,VUT,country
+244,Venezuela,VEN,country
+245,Vietnam,VNM,country
+246,Western Africa,REGION,region
+247,Western Sahara,ESH,country
+248,World,OWID_WRL,country
+249,Yemen,YEM,country
+250,Zambia,ZMB,country
+251,Zimbabwe,ZWE,country
